@@ -1,0 +1,174 @@
+
+1. Fractal behaviour in heart dynamics :
+
+	24 hour intervals of heartbeats were obtained from several subjects and represented by time series from the sequential intervals between beat n and beat n + 1, denoted by B(n).Then they introduce a mean fluctuation function F (n).	F (n) quantifies the magnitude of the fluctuations over different time scales n. The plot is linear over a broad physicologically relevant time scale.	Later, using an alternative analysis, the detrended fluctuation analysis (DFA), they proved that the fractal coefficient for sleeping subjects is lower than the one for awake subjects, for both healthy and heart failure patients. The fact that the heart failure patients are physically restrained because of their
+	disease, rules out changes on the behavior due to activity stimuli.
+
+	Author : 
+	Elizabeth Villa Rodriguez,
+	Physics Department, University of Illinois
+
+2.ON THE NON-ATTRIBUTIVENESS OF THE INDICATORS OF FRACTALITY, RELATED TO THE HAUSDORFF DIMENSION :
+
+	Two criteria and indicators of fractality of objects and processes are identified.1) The first criterion of fractality is the value of the Hausdorff dimension of an object or process, and the corresponding indicator of fractality. 2) The second criterion is the relation between the Hausdorff dimension and the
+	topological dimension, that the Hausdorff dimension exceeds/strictly exceeds the topological dimension.
+	On the basis of the criterion of the relation between the Hausdorff dimension and the topological dimension, three groups of fractals are distinguished:TYPE 1.Fractals which Hausdorff dimension is equal to their topological dimension, hence, it is an integer. TYPE 2. The fractals which Hausdorff dimension exceeds their topological dimension by less than one, consequently, it is a fractional number. TYPE 3. The fractals which Hausdorff dimension exceeds their topological dimension by one, hence, it is an integer.
+	only the second group is fractals, since they have both indicators. The first group should be excluded
+	from the class of fractals because the fractals of this group have no both indicators –	exceedance and fractionality. The third group of fractals should be excluded due to	the absence of fractionality.
+
+	Author :
+
+	Nadiya Zudilina
+	V.I. Vernadsky Crimean Federal University
+
+
+3. Heart rate variability and fractal dimension during orthostatic challenges :
+
+	https://www.physiology.org/doi/10.1152/jappl.1993.75.6.2602
+
+	Heart rate variability (HRV) spectral analysis has been used as a tool for short-term assessment of parasympathetic (PNS) and sympathetic nervous system (SNS) control of heart rate.
+	it has been suggested that the PNS and SNS indicators are superimposed on a broad-band noise spectrum in which the power spectral densities are inversely proportional to their frequency (1/f beta).We have used coarse-graining spectral analysis to extract the harmonic components for calculation of PNS and SNS indicators and to obtain the slope (beta) of the 1/f beta component to estimate fractal dimension (DF) of a trail of HRV.	In the 20 tests, there were six occurrences of presyncopal symptoms that required the test to be terminated before the planned end point. At low levels of LBNP or HUT, arterial pulse pressure (PP) was not changed from rest, and calculated DF was very high (beta approximately 1.00). At the higher levels of LBNP and HUT, PP decreased. Coincident with this reduction in PP, PNS activity decreased, SNS activity increased, and DF was reduced, each with a significant linear relationship to the change in PP (PNS: r = 0.56; SNS: r = 0.57; DF: r = 0.70, P < 0.01). Each occurrence of presyncope was associated a low PNS indicator as well as DF < 2.50 (beta > or = 1.80).
+
+	Author:
+
+	G. C. Butler, Y. Yamamoto, H. C. Xing, D. R. Northey, and R. L. Hughson
+
+
+4. Fractal analysis of heart rate variability and mortality after an acute myocardial infarction :
+
+	https://www.ncbi.nlm.nih.gov/pubmed/12161220
+
+	The conventional time-domain and spectral parameters and the newer fractal scaling indexes of HR variability were analyzed from 24-hour RR interval recordings. During the mean follow-up of 18.4 +/- 6.5 months, 49 patients (7.0%) died. Of all the risk variables, a reduced short-term fractal scaling exponent (alpha(1) <0.65), measured by detrended fluctuation analysis, was the most powerful predictor of mortality (univariate relative risk 5.05, 95% confidence intervals [CI] 2.87 to 8.89, p <0.001).
+
+	Several other HR variability parameters also predicted mortality in univariate analyses, but in a multivariate analysis after adjustments for clinical variables and left ventricular ejection fraction, alpha(1) was the most significant independent HR variability index that predicted subsequent mortality (relative risk 3.90, 95% CI 2.03 to 7.49, p <0.001). Short-term fractal scaling analysis of HR variability is a powerful predictor of mortality among patients surviving an acute myocardial infarction.
+
+	Author:
+	Tapanainen JM1, Thomsen PE, Køber L, Torp-Pedersen C, Mäkikallio TH, Still AM, Lindgren KS, Huikuri HV.
+
+5. Fractal analysis of heart rate variability and mortality in elderly community-dwelling people – Longitudinal Investigation for the Longevity and Aging in Hokkaido County (LILAC) study:
+
+	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2820556/
+
+	This study is to examine the prognostic power of detrended fluctuation analysis (DFA) and traditional time- and frequency-domain analyses of HR dynamics as predictors of mortality among elderly people in a community.
+
+	Time-domain and frequency-domain measures were determined by the maximum entropy method. Scaling exponents of short-term (<11 beats, alpha 1) and longer-term (>11 beats, alpha 2) were determined by the DFA method. Six estimates, obtained from 10-min segments, were averaged to derive mean values for the entire recording span.
+
+
+	An intermediate-term fractal-like scaling exponent of RR intervals was a better predictor of death than the traditional measures of HR variability in elderly community-dwelling people. It is noteworthy that the longer-term (alpha 2) rather than the short-term fractal component (alpha 1) showed predictive value for all-cause mortality, which suggests that an increase in the randomness of intermediate-term HR behavior may be a specific marker of neurohumoral and sympathetic activation and therefore may also be associated with an increased risk of mortality.
+
+	Author:
+	N. Hotta,a,b K. Otsuka,a,b,* S. Murakami,c G. Yamanaka,a Y. Kubo,a O. Matsuoka,a T. Yamanaka,a,b M. Shinagawa,a S. Nunoda,a Y. Nishimura,a K. Shibata,a,b H. Saitoh,a,b M. Nishinaga,d M. Ishine,e T. Wada,e K. Okumiya,f K. Matsubayashi,g S. Yano,h K. Ichihara,i G. Cornrlissen,j and F. Halbergj
+
+6. HRV spectral and fractal analysis in heart failure patients with different aetiologies:
+	
+	https://link.springer.com/chapter/10.1007/978-3-540-73044-6_21
+
+	Non linear parameters obtained from HRV analysis has recently been recognized to provide valuable information for physiological interpretation of heart rate fluctuation.
+
+	Among the numerous non-linear parameters related to the fractal behaviour of the HRV signal, two classes have gained wide interest in the last years: the beta exponent based on the 1/f-like relationship, starting from the spectral power, and that based on fractal dimension (FD)
+
+	Differently from methods usually used in literature to evaluate the fractal dimension, in this work the FD was extracted by using the Higuchi's algorithm that permits to calculate the parameter directly from the HRV sequences in the time domain. Results show that fractal analysis contains relevant information related to different HRV dynamics that permits to separate normal subjects from COPD patients.	
+
+	Author:
+	Gianni D’AddioA. AccardoG. CorbiF. Rengo
+
+7. 	FRACTAL ANALYSIS OF THE ELECTROCARDIOGRAM SIGNAL :
+
+	https://www.worldscientific.com/doi/abs/10.1142/S0219519414500559
+
+	The analysis is carried out on different ECG signals taken from the MIT-BIH arrhythmia database. In fact these signals are those of six subjects with different ages and presenting both normal and abnormal arrhythmias situations. The abnormal situations are atrial premature beat (APB), premature ventricular contraction (PVC), right bundle branch block (RBBB) and left bundle branch block (LBBB). The fractal behavior of these signals is analyzed according to the determination of the multifractal spectrum and the fractal dimension variations and looking for eventually a fractal signature of each heart disease and age of the subject.
+
+	The obtained results show a fractal signature according to the age and the pathologies for the studied cases. However further investigations are required on larger databases to confirm such results.
+
+	Author:
+
+	IBTICEME SEDJELMACI and F. BEREKSI-
+
+8.	Fractal Random Walk and Classification of ECG Signal :
+
+	http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.180.2934&rep=rep1&type=pdf
+	
+	let us consider a time series Rtn. Let τ denote the time span of the whole
+	discrete series. The cumulative sum of the difference between time series and their
+	mean, X(n, τ), is defined:
+
+	The range R denotes the difference between the maximum and minimum of X(n, τ),
+	and S denotes standard deviation of the series. R and S are defined respectively as: 
+
+
+	we take ECG analysis into Fractal World and achieve very important result.
+	First, let’s begin with nonlinear theory: 
+
+	Permutation Entropy:
+
+	For some well-known chaotic dynamical systems it is shown that PE behaves similar
+	to Lyapunov exponents. It is a simple, fast, robustness and invariant method with respect to
+	nonlinear monotonous transformations
+
+	It is clear that each point in the m-dimensional embedding space,
+	indexed by i, can be mapped onto one of the m! permutations. When each such permutation is
+	considered as a symbol, then the reconstructed trajectory in the m-dimensional space is
+	represented by a symbol sequence. The number of distinct symbols can be at most m!
+
+
+	 Let the probability distribution for the distinct symbols for the time series {x(i) , i=1,2, . . . } be defined as the Shannon entropy for the K distinct symbols.
+
+
+	Regularization Dimension:
+
+	One computes smoother and smoother versions of the original signal, obtained simply through convolution
+	with a kernel. If the original signal is "fractal", its graph has infinite length, while all
+	regularized versions have finite length. When the smoothing parameter tends to 0, the
+	smoothed version tends to the original signal, and its length will tend to infinity. The
+	regularization dimension measures the speed at which this convergence to infinity takes
+	place
+
+	In many cases, this will coincide with the usual box dimension. In general, it can be
+	shown that the regularization dimension is more precise than the box dimension, in the sense
+	that it is always smaller, but still larger than the Hausdorff dimension. In addition, the
+	regularization dimension lends to more robust estimation procedures for various reasons. One
+	of them is that we may choose the regularization kernel. Also, the smoothed versions are
+	adaptive by construction. Finally, the smoothing parameter can be varied in very small steps,
+	as box sizes have to undergo sudden changes. 
+
+	Multifractal Spectrum:
+
+	We can consider a normalized time series as a singular measure P, calculating the f(a) curve covering
+	the measure with boxes of length L and computing the probabilities Pi(L) in each box.
+
+	The Multifractal Spectrum equations provide a relationship between a Hausdorff dimension f and the average
+	singularity strength a as implicit functions of the parameter q.
+
+	Author: Daoming Zhang, Guojun Tan, Jifei Hao
+
+9. Analyzing Electrocardiography (ECG) Signal using Fractal Method:
+
+	http://inpressco.com/wp-content/uploads/2017/04/Paper27498-505.pdf	
+
+	At the present study, using the proposed methods, ECG of 63 separated individuals with introduced types of
+	arrhythmia (atrial fibrillation (AF); premature	ventricular contraction (PVC) and ventricular
+	fibrillation (VF)) and 21 healthy people are analyzed.	ECG signals of these people have been mainly selected from the BIH-MIT Arrhythmia Database.	First, these individuals were divided to the age
+	groups of 25-32, 32-39 and 39-46 years old. Using Fractan and MATLAB software for each age group, the
+	values of correlation dimension and Hurst index were estimated and their weighted average is presented in
+	tale 4.2. Moreover, Hausdorff dimension values and correlation dimension values for all participants are
+	respectively presented in tables 20.4 and 21.4. As it is clear, correlation dimension is reduced in case of
+	arrhythmia. The reduction shows reduction of active functional processes in heart while arrhythmia.
+	Moreover, arrhythmia can reduce Hurst index and as a result, due to the equation D= 2-H, it can result in rise of Hausdorff dimension. It is known that if H < 0.5,series has long-term memory; meaning that series
+	fluctuations in present time are positively correlated to all fluctuations in future. Stationary processes face less dysfunction compared to non-stationary processes and hence, they are predictable. On the other hand, Hurst	value for VF arrhythmia is less than 0.5. This could show risk of the arrhythmia in terms of medicine, since as it was mentioned before, the arrhythmia in most emergency arrhythmia that should be handled	urgently. Correlation dimension is an index of complexity and number of state variables required to describe a dynamic system. For a turbulent series, correlation dimension should not vary with deformation of time series. With the increased number of normal rhythms,the correlation dimension is also increased. This shows more complicated nature of normal rhythms. Hence, it could be used as an index to separate normal and abnormal ECG signals. In the proposed method, first the features of ECG signals of arrhythmia are extracted based on fractal theory and time series	methods are used to estimate fractal values for	different pathological and normal conditions and finally, different sequence of FD was created for each	type of arrhythmia. Such time intervals are used to	diagnose healthy people and patients through
+	placement of each of them in sequence of FD.
+
+	Author: Pardis Nayyeri
+
+10. Detecting abnormality in heart dynamics from multifractal analysis of ECG signals:
+
+	https://www.nature.com/articles/s41598-017-15498-z
+
+	The multifractal analysis of ECG data reported are mostly using the method of Detrended Fluctuation Analysis (DFA)28 which quantifies the variability in the scaling of the fluctuations in data.
+    
+    the hypothesis that even though ECG is an average response of the heart, the subtle variations in the actual shape of the ECG waveforms and their amplitude variations can be related to the variations in the underlying dynamics. Singular Value Decomposition (SVD) technique and establish the nonlinear nature of their dynamics using surrogate analysis with Correlation dimension as a discriminating measure. We compute the indices that characterize the multifractal spectrum uniquely and show how their ranges or variations can distinctly distinguish healthy and unhealthy sets. Applying the analysis to a large number of ECG data sets, we group the data into healthy and unhealthy sets based on the values of the indices. Using supervised machine learning approach, we indicate how a new data can be assigned to either of these groups with high accuracy.
+    The data of 97 unhealthy and 32 healthy subjects obtained from PhysioBank database43 are pre-processed to make them suitable for the analysis (See Supplementary). Each dataset consists of ECG time series taken from six different chest electrodes or channels v 1 to v 6. As a preliminary analysis, we carry out the usual statistical and linear analysis and obtain the power spectra for all the data sets using the Fast Fourier Transform (FFT) algorithm. The frequency with the maximum power for each one of them and the distribution of these peak frequencies for all the subjects are summarized in Fig. 1 for data from six chest electrodes. It is clear that it is not possible to conclusively distinguish the two groups using the peak frequencies as they fall in almost similar ranges. we resort to methods of nonlinear analysis and reconstruct phase space structure of the system’s dynamics from its discretely sampled time series s(t k ). For a visual display of the resulting phase space structure or dynamical attractor, we use the technique of Singular Value Decomposition (SVD). (See Supplementary for details about embedding).we show a few representative embedded attractors from healthy and unhealthy groups. Each of the attractors is shown in the axes corresponding to statistically independent variables obtained from SVD.
+    we indicate how correlation dimension is used along with surrogate analysis to establish the nonlinear nature of the underlying dynamics and how the geometrical complexity of its structure is quantified using multifractal measures.
+    The separation of the two groups into two different clusters becomes useful only if it helps us to predict the group label (healthy or unhealthy) for a new unseen data. This is a standard problem in the theory of machine learning and we use a particular algorithm called a “support vector clustering” or SVC using the Radial basis function (RBF) kernel48 to find out the regions in α 1-γ 1 planes corresponding to the two groups. The known group labels are used as a training data for the algorithm to identify healthy and unhealthy cases and then the algorithm is asked to divide the parameter plane into two regions. 
+
+    Author : Snehal M. Shekatkar, Yamini Kotriwar, K. P. Harikrishnan & G. Ambika 
+
